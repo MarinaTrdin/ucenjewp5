@@ -1,5 +1,5 @@
 --create database ERAracun;
-
+--komentar
 --drop database ERAracun;
 
 --use edunovawp5;
